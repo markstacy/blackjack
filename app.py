@@ -64,7 +64,8 @@ class Blackjack():
             return self.deck.pop(0)
         else:
             return None
-    # how many remaing cards are im the deck for this game
+        
+    # how many cards are remaining in the deck for this game
     def getRemaining(self):
         return len(self.deck);
     
