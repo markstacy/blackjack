@@ -449,7 +449,7 @@ route and function for the "GET" for /resume (a non-integrated api)
 def resume():
     return getHTML()
 
-# instatiate the game
+# instantiate the game
 game = Blackjack()
 
 # run Flask
