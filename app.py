@@ -1,5 +1,5 @@
 """
-solitaire - a simple web-based application
+Blackjack - a simple web-based application
 for the clasic game - mas 05-10-2021
 """
 
