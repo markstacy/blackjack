@@ -17,7 +17,7 @@ app.config["DEBUG"] = True
 game = None
 
 """
-Blackjack class delclaration
+Blackjack class declaration
 """
 class Blackjack():
     def __init__(self, players = 2):
@@ -161,7 +161,7 @@ class Blackjack():
         return state
 
 """
-Players class delclaration
+Players class declaration
 """    
 class Players():
 
@@ -200,7 +200,7 @@ class Players():
         self.deck = []
                 
 """
-Player class delclaration
+Player class declaration
 """
 class Player():
     
