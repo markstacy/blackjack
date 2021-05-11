@@ -1,6 +1,6 @@
 """
 Blackjack - a simple web-based application
-for the clasic game - mas 05-10-2021
+for the classic game - mas 05-10-2021
 """
 
 import flask
